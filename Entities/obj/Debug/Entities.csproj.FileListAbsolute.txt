@@ -1,0 +1,9 @@
+C:\Users\Student\Documents\MadaMarginean\Laborator5\logInDotNet\Entities\bin\Debug\Entities.dll
+C:\Users\Student\Documents\MadaMarginean\Laborator5\logInDotNet\Entities\bin\Debug\Entities.pdb
+C:\Users\Student\Documents\MadaMarginean\Laborator5\logInDotNet\Entities\obj\Debug\Entities.dll
+C:\Users\Student\Documents\MadaMarginean\Laborator5\logInDotNet\Entities\obj\Debug\Entities.pdb
+D:\Facultate\Proiecte_dotNet\logInDotNet\Entities\bin\Debug\Entities.dll
+D:\Facultate\Proiecte_dotNet\logInDotNet\Entities\bin\Debug\Entities.pdb
+D:\Facultate\Proiecte_dotNet\logInDotNet\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+D:\Facultate\Proiecte_dotNet\logInDotNet\Entities\obj\Debug\Entities.dll
+D:\Facultate\Proiecte_dotNet\logInDotNet\Entities\obj\Debug\Entities.pdb
