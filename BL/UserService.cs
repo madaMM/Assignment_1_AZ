@@ -28,6 +28,24 @@ namespace logInDotNet.BL
             return pass;
         }
 
+
+        public String updateP()
+        {
+            int d;
+            String pass = "";
+            String aux = "abcdefghijklmnopqrstuvwxyz";
+            Random rnd = new Random();
+            int nr = rnd.Next(8, 10);
+            for (int f = 0; f < nr; f++)
+            {
+                d = rnd.Next(1, 25);
+                pass = pass + aux[d];
+
+            }
+            return pass;
+        }
+
+
         public void addEmployee(String username, String password,String name, String role)
         {
             String pass = getMd5Hash(password);

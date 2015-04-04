@@ -71,8 +71,6 @@ namespace logInDotNet.DAL
                     String titlee = mdr.GetString("title");
                     String description = mdr.GetString("description");
 
-                    //byte[] img = (byte[])mdr["image"];
-                   // String result = AnnouncementDAL.GetString(img);
                   
                     aux.Add(id);
                     aux.Add(titlee);

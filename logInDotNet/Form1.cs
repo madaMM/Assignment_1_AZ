@@ -67,20 +67,10 @@ namespace logInDotNet
         private void button2_Click(object sender, EventArgs e)
         {
             String username = userTxtBox.Text;
-           
-            int d;
-            String pass = "";
-            String aux = "abcdefghijklmnopqrstuvwxyz";
-            Random rnd = new Random();
-            int nr = rnd.Next(8, 10);
-            for (int f = 0; f < nr; f++)
-             {
-                 d = rnd.Next(1, 25);
-                 pass = pass + aux[d];
 
-             }
+            String pass = user.updateP();
             String s=user.upd(username,pass);
-            MessageBox.Show("Noua parola "+pass);
+            MessageBox.Show("New Password "+pass);
         }
     }
 }
